@@ -13,6 +13,8 @@
 }
 ._图片 {
 }
+.button {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -62,6 +64,10 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 ._连接线 {
   font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
@@ -87,4 +93,10 @@
   text-align:left;
 }
 .icon {
+}
+.shape {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
 }
